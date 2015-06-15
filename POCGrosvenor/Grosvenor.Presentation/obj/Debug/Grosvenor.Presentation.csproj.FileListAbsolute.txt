@@ -38,3 +38,6 @@ C:\TOSA\Projetos\POCGrosvenor-master\POCGrosvenor_Versao_2\POCGrosvenor\Grosveno
 C:\TOSA\Projetos\POCGrosvenor-master\POCGrosvenor_Versao_2\POCGrosvenor\Grosvenor.Presentation\obj\Debug\Grosvenor.Presentation.exe
 C:\TOSA\Projetos\POCGrosvenor-master\POCGrosvenor_Versao_2\POCGrosvenor\Grosvenor.Presentation\obj\Debug\Grosvenor.Presentation.pdb
 C:\TOSA\Projetos\POCGrosvenor-master\POCGrosvenor_Versao_2\POCGrosvenor\Grosvenor.Presentation\obj\Debug\Grosvenor.Presentation.csprojResolveAssemblyReference.cache
+C:\TOSA\GitRepository\POCGrosvenor\Grosvenor.Presentation\bin\Debug\Grosvenor.Presentation.exe.config
+C:\TOSA\GitRepository\POCGrosvenor\Grosvenor.Presentation\obj\Debug\Grosvenor.Presentation.exe
+C:\TOSA\GitRepository\POCGrosvenor\Grosvenor.Presentation\obj\Debug\Grosvenor.Presentation.pdb
